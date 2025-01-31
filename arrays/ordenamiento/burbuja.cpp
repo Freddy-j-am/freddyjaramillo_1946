@@ -1,4 +1,5 @@
 //https://github.com/Freddy-j-am/freddyjaramillo_1946
+//no pude separar los procesos
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
@@ -6,8 +7,8 @@ using namespace std;
 void llenarVector(int v[], int n){
     srand(time(NULL));
     for (int i= 0;i<n;i++){
-        v[i]=rand()%20+1;
-        //cin >> v[i];
+        //v[i]=rand()%20+1;
+        cin >> v[i];
         }
   
     }
