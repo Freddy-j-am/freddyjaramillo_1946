@@ -57,4 +57,5 @@ main()
     cout<<"\nCadena anadida: c1= "<<cad1;
     (alfabeticoNumerico(cad1))?cout<<"\nLa cadena "<<cad1 << " es alfanumerica":cout<<"\n La cadena "<<cad1<<"no es alfanumerica";
     (alfabetico(cad1))?cout<<"\nLa cadena "<<cad1 << " es alfabetica":cout<<"\n La cadena "<<cad1<<"no es alfabetica";
+    (numerico(cad1))?cout<<"\nLa cadena "<<cad1 << " es numerica":cout<<"\nLa cadena "<<cad1 << " no es numerica";
 }

@@ -33,10 +33,6 @@ string curso[5] = {"C++", "Java", "Python", "C#", "PHP"};
     cout << "Su nombre completo es: "<<nombres<<" "<<apellidos<<endl;
     
     cout << "Su apodo es: "<<apodo<<endl;
-    
-   
-    
-   
 
 }
     
