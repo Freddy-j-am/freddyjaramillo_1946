@@ -8,7 +8,7 @@ int main()
     string apellido("Jaramillo");
     string inicial(1, 'f');
     string cadena= "Juan Jose Arturo";
-    string nombre2(cadena,,5);
+    string nombre2(cadena,5);
     cout<< "La longitud de nombre2 es: "<<nombre2.length()<<endl;
     inicial += "reddy";
     cout<<inicial[0]<<endl;
